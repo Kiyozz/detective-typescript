@@ -1,6 +1,6 @@
 {
-  "name": "detective-typescript",
-  "version": "6.0.0",
+  "name": "detective-typescript-70",
+  "version": "7.0.0",
   "author": "Patrik Henningsson <patrik.henningsson@gmail.com>",
   "description": "Get the dependencies of a TypeScript module",
   "main": "index.js",
@@ -26,7 +26,7 @@
   "license": "MIT",
   "homepage": "https://github.com/pahen/detective-typescript",
   "dependencies": {
-    "@typescript-eslint/typescript-estree": "^4.8.2",
+    "@typescript-eslint/typescript-estree": "^4.16.0",
     "ast-module-types": "^2.7.1",
     "node-source-walk": "^4.2.0",
     "typescript": "^3.9.7"
